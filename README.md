@@ -46,7 +46,7 @@ Please note that the pre-compiled installers aren't signed with any certificate 
 
 ## Development
 App is made with the following frameworks and libraries:
-- App is built on [Electron](https://electronjs.org/).
+- App is based on [Electron](https://electronjs.org/).
 - [Vue.js](https://vuejs.org/).
 - [Vuetify](https://vuetifyjs.com/en/).
 - App is compatible with the Vue CLI if you are more familiar with that.
