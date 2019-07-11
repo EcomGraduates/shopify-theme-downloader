@@ -14,7 +14,7 @@ module.exports = {
   pluginOptions: {
     electronBuilder: {
       builderOptions: {
-        appId: 'com.electron.shopify-themekit-ui',
+        appId: 'com.electron.shopify-theme-downloader',
         mac: {
           category: 'public.app-category.developer-tools',
           gatekeeperAssess: false
