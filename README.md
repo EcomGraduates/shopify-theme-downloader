@@ -9,7 +9,7 @@ GUI for Shopify [Theme Kit](https://shopify.github.io/themekit/). Provides an ea
 - App saves automatically all previous store connections (Shopify Domain & Private app password) as a unique configuration making it easy to switch between stores.
 - Manage previous saved configurations (store connections).
 - Internal notifications and theme download progress.
-- It works for OSX, Windows and Linux
+- It works for MacOS, Windows and Linux
 
 <br>
 
