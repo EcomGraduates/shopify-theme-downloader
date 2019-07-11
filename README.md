@@ -35,7 +35,7 @@ GUI for Shopify [Theme Kit](https://shopify.github.io/themekit/). Provides an ea
 <br>
 
 ## Download
-Please visit the [releases page](https://github.com/hulk-apps/shopify-theme-downloader/releases). You can find precompiled binaries for OSX, Windows and Linux.
+Please visit the [releases page](https://github.com/hulk-apps/shopify-theme-downloader/releases). You can find precompiled binaries for MacOS, Windows and Linux.
 
 <br>
 
