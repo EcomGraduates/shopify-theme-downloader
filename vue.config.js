@@ -1,7 +1,5 @@
 const webpack = require('webpack')
 
-console.log(process.env.VUE_APP_GH_OWNER)
-
 module.exports = {
   configureWebpack: {
     devtool: 'source-map',
