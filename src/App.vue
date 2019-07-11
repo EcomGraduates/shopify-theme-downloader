@@ -63,7 +63,10 @@
 
     <v-content class="grey lighten-3">
       <v-container fluid>
-        <v-layout wrap align-items-stretch>
+        <v-layout
+          wrap
+          align-items-stretch
+        >
           <v-flex xs12>
             <v-form
               ref="form"
@@ -217,7 +220,10 @@
                         :value="downloadProgress"
                         color="green lighten-2"
                       >
-                        <span v-if="downloadProgress > 0" class="title">{{ downloadProgress }}%</span>
+                        <span
+                          v-if="downloadProgress > 0"
+                          class="title"
+                        >{{ downloadProgress }}%</span>
                       </v-progress-circular>
                     </div>
                   </v-flex>
