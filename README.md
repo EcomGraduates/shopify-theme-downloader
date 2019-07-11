@@ -26,7 +26,7 @@ GUI for Shopify [Theme Kit](https://shopify.github.io/themekit/). Provides an ea
 
 ## Getting started
 1. Make sure you read the [prerequisites](#prerequisites) section.
-2. Download one of the distribution builds from the [releases page](https://github.com/Skoulix/shopify-themekit-ui/releases) depending on your operating system and install the app.
+2. Download one of the distribution builds from the [releases page](https://github.com/hulk-apps/shopify-theme-downloader/releases) depending on your operating system and install the app.
 3. Run the app.
 4. Connect to a store by providing the store Shopify domain and the password from the private app.
 5. If the connection is successful you can get a list of all provided store themes.
@@ -35,7 +35,7 @@ GUI for Shopify [Theme Kit](https://shopify.github.io/themekit/). Provides an ea
 <br>
 
 ## Download
-Please visit the [releases page](https://github.com/Skoulix/shopify-themekit-ui/releases). You can find precompiled binaries for OSX, Windows and Linux.
+Please visit the [releases page](https://github.com/hulk-apps/shopify-theme-downloader/releases). You can find precompiled binaries for OSX, Windows and Linux.
 
 <br>
 
