@@ -1,0 +1,41 @@
+::selection:not(textarea) {
+  background: transparent;
+}
+
+::-moz-selection:not(textarea) {
+  background: transparent;
+}
+
+*:not(textarea) {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: -moz-none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+::-webkit-scrollbar { display: none; }
+
+.flip-list-move {
+  transition: transform 0.5s;
+}
+.no-move {
+  transition: transform 0s;
+}
+.ghost {
+  opacity: 0.1;
+  background: #EEEEEE;
+}
+
+.sortable-chosen {
+  background: #fff;
+  border-style: none;
+}
+
+.list-group-item{
+  border-top: 1px solid #E0E0E0;
+
+  i {
+    cursor: move;
+  }
+}
